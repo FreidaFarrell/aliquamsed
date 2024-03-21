@@ -1,0 +1,56 @@
+{
+  "name": "aliquamsed",
+  "version": "1.0.0",
+  "description": "Generate forms with contract's ABI.",
+  "main": "dist/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FreidaFarrell/aliquamsed.git"
+  },
+  "keywords": [
+    "react",
+    "ethereum",
+    "solidity",
+    "illum"
+  ],
+  "author": "ArielleLind",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FreidaFarrell/aliquamsed.git/issues"
+  },
+  "dependencies": {
+    "classnames": "^2.2.5",
+    "ethereumjs-util": "^5.1.5",
+    "lodash": "^4.17.4",
+    "prop-types": "^15.6.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-jsonschema-form": "^1.0.2",
+    "recompose": "^0.26.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-eslint": "^8.2.2",
+    "babel-loader": "^7.1.5",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1",
+    "cross-env": "^5.0.5",
+    "css-loader": "^0.28.11",
+    "enzyme": "^3.3.0",
+    "enzyme-adapter-react-16": "^1.1.1",
+    "eslint": "^4.19.1",
+    "eslint-plugin-react": "^7.7.0",
+    "extract-text-webpack-plugin": "^4.0.0-beta.0",
+    "html-webpack-plugin": "^3.1.0",
+    "jest": "^23.6.0",
+    "react-json-view": "^1.16.1",
+    "terser-webpack-plugin": "^1.2.1",
+    "uglifyjs-webpack-plugin": "^2.1.1",
+    "webpack": "^4.28.4",
+    "webpack-cli": "^3.2.1",
+    "webpack-dev-server": "^3.1.14"
+  },
+  "homepage": "https://github.com/FreidaFarrell/aliquamsed.git"
+}
